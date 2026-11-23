@@ -22,10 +22,6 @@ An interactive **Tableau** dashboard exploring Netflix catalog trends across rel
 * **Theme:** Dark mode (`#000000` canvas) paired with Netflix red (`#E50914` / dark crimson accents) and slate blue (`Movie`) / red (`TV Show`) series encoding.
 * **Header:** Replaced the text title with the **NETFLIX** logo centered at the top of the layout.
 
-## Data Source
-
-* **Dataset:** `[Add dataset name and link, e.g., Netflix Movies and TV Shows dataset]`
-* **Notes:** Counts and percentages reflect the current filtered state in the dashboard view and include some null ratings or unmapped country records.
 
 ## Tools Used
 
